@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\figur.bmp</Source>
+      <Name>Images\figur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\FH\5. Semester\Projektmanagement\kackvogel\kackvogel01\kackvogel01\bin\x86\Debug\Content\Images\figur.xnb</Output>
+      <Time>2012-10-21T11:59:58.7368117+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gnd.bmp</Source>
+      <Name>Images\gnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\FH\5. Semester\Projektmanagement\kackvogel\kackvogel01\kackvogel01\bin\x86\Debug\Content\Images\gnd.xnb</Output>
+      <Time>2012-10-21T18:43:16.4393952+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\stone.bmp</Source>
+      <Name>Images\stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\FH\5. Semester\Projektmanagement\kackvogel\kackvogel01\kackvogel01\bin\x86\Debug\Content\Images\stone.xnb</Output>
+      <Time>2012-10-21T18:43:16.4393952+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\FH\5. Semester\Projektmanagement\kackvogel\kackvogel01\kackvogel01Content\</RootDirectory>
+      <LoggerRootDirectory>D:\FH\5. Semester\Projektmanagement\kackvogel\kackvogel01\kackvogel01\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\FH\5. Semester\Projektmanagement\kackvogel\kackvogel01\kackvogel01Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\FH\5. Semester\Projektmanagement\kackvogel\kackvogel01\kackvogel01\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-04T13:12:33.2681182+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
